@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-community
+langchain_openai
+langchain_pinecone
+python-docx
+pypdf
